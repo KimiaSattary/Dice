@@ -1,8 +1,9 @@
+  
 
 body {
-    background-color: rgb(50,90, 150);
+    background-color: rgb(50,90,150);
     color: rgb(0,0,0);
-    font-family: "Helvetica", HelveticaNeue-UltraLight-48;
+    font-family: "Open Sans", sans-serif;
     text-align: center;
 }
 
@@ -20,4 +21,3 @@ footer {
 	font-style: italic;
 	font-size: 90%;
 }
-
