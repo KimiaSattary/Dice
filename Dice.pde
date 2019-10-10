@@ -1,8 +1,4 @@
-public void settings()
-{
-  size(840,400);
- 
-}
+
 Die array[]= new Die[22];
 int x = 0;
 int y = 0;
@@ -12,6 +8,7 @@ void setup()
 {
   noLoop();
   background(50,90, 150);
+  size(840,400);
 }
 
 
